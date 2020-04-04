@@ -1,7 +1,7 @@
 # NeotrellisGridCase
 Neotrellis Grid Case
 
-A 3d printable case for the Neotrellis 128 grid. 
+A 3d printable case for the Neotrellis 128 grid. The length of the case is exactly 25cm, so this should be just printable on a Prusa I3.
 
 ![Grid](https://github.com/jorgen83/NeotrellisGridCase/blob/master/Grid_v1_2020-Apr-04_12-01-31PM-000_CustomizedView1888824705_png.png)
 
