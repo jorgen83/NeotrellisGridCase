@@ -29,3 +29,14 @@ Hardware required:
 Teeny 3.2
 8 Neotrellis PCBs
 8 4x4 push buttons
+
+Construction notes:
+0. Melt in the threaded inserts into the top case
+1. Solder all the wires to the Teensy and the USB breakout
+2. Slide in the Teensy in the cradle in the bottom case
+3. Screw the USB breakout to the bottom case
+4. Connect the 4 pin connector to the Neotrellis board
+5. Lay the Neotrellis boards in the bottom case and screw them in using the 8 screws
+6. Lay on the rubber buttons followed by the top case
+7. Turn over and screw in the 8 screws to connect the bottom and top cases.
+3.
