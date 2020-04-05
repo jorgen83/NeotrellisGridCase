@@ -18,7 +18,7 @@ I added a slide-in part to hold the teensy. In theory you slide it in at a sligh
 
 Hardware required:
 
-2 M2.5 * 4mm screws (for USB breakout)
+2 M2.5 * 3mm screws (for USB breakout)
 
 8 M2 threaded inserts (to melt into top part)
 8 M2 * 8mm screws (to screw the top to the bottom of the case)
